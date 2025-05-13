@@ -1,1 +1,1 @@
-this dupilicate
+This is duplicate code
