@@ -1,0 +1,29 @@
+Today are small goggle form  HTML
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>gogle form</title>
+</head>
+<body>
+    <h1 >my new gogle form </h1><br>
+    <label>Firstname</label>
+    <input type ="text" name ="fname"><br>
+    <label>lastname</label>
+    <input type ="text" name ="lname"><br>
+    <label style = "background-color: blue"; >middlename</label>
+    <input type ="text" name ="Mname"><br>
+    <label style = "background-color:yellow"; >mail id </label>
+    <input type ="text" name ="mailid"><br>
+    <button style = "background-color: blue"; >button</button>
+    <button style = "background-color: green"; >submit</button>
+    <button style = "background-color: white"; >clear</button>
+
+
+    
+</body>
+</html>
